@@ -47,8 +47,8 @@ Você pode replicar este experimento em sua máquina local seguindo os passos ab
 
 1.  Clone este repositório:
     ```bash
-    git clone [https://github.com/](https://github.com/)[SEU-USUARIO]/[SEU-REPOSITORIO].git
-    cd [SEU-REPOSITORIO]
+    git clone https://github.com/alicefvictorino/dijkstra-performance
+    cd dijkstra-performance
     ```
 
 2.  (Opcional, mas recomendado) Crie e ative um ambiente virtual:
