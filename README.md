@@ -5,7 +5,7 @@
 [![CodeCarbon](https://img.shields.io/badge/CodeCarbon-Medindo%20CO%E2%82%82-brightgreen?style=for-the-badge&logo=leafygreen)](https://github.com/mlco2/codecarbon)
 [![Plotly](https://img.shields.io/badge/Plotly-Gr%C3%A1ficos%20Interativos-blueviolet?style=for-the-badge&logo=plotly)](https://plotly.com/)
 
-Um benchmark comparativo do tempo de execução ($O(V^2)$ vs $O((V+E)\log V)$) e das emissões de CO₂ de diferentes implementações do algoritmo de Dijkstra, conforme solicitado na disciplina de Algoritmos e Estruturas de Dados II (DCA3702 - UFRN).
+Um benchmark comparativo do tempo de execução ($O(V^2)$ vs $O((V+E)\log V)$ e das emissões de CO₂ de diferentes implementações do algoritmo de Dijkstra, conforme solicitado na disciplina de Algoritmos e Estruturas de Dados II (DCA3702 - UFRN).
 
 ---
 
@@ -47,8 +47,8 @@ Você pode replicar este experimento em sua máquina local seguindo os passos ab
 
 1.  Clone este repositório:
     ```bash
-    git clone [https://github.com/](https://github.com/)[SEU-USUARIO]/[SEU-REPOSITORIO].git
-    cd [SEU-REPOSITORIO]
+    git clone https://github.com/alicefvictorino/dijkstra-performance
+    cd dijkstra-performance
     ```
 
 2.  (Opcional, mas recomendado) Crie e ative um ambiente virtual:
