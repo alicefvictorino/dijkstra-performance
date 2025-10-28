@@ -21,7 +21,7 @@ O objetivo é avaliar o impacto prático da complexidade algorítmica em duas m�
 * **Tempo de Execução (s):** O tempo médio necessário para executar o algoritmo.
 * **Pegada de Carbono (kg CO₂e):** A emissão de dióxido de carbono estimada para cada execução, medida com a biblioteca `CodeCarbon`.
 
-O experimento foi conduzido em grafos aleatórios ponderados de tamanhos variando de 100 até 100.000 nós, com 20 repetições por tamanho para garantir robustez estatística.
+O experimento foi conduzido em grafos aleatórios ponderados de tamanhos variando de 100 até 50.000 nós, com 20 repetições por tamanho para garantir robustez estatística.
 
 ## 2. Tecnologias Utilizadas
 
