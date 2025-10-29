@@ -91,7 +91,7 @@ Os resultados completos da execução, incluindo a tabela de resumo (`.csv`) e t
 
 Uma explicação detalhada da metodologia, execução do código e análise dos resultados está disponível no vídeo de apresentação:
 
-**link**
+**https://youtu.be/QbMesototJ8**
 
 ## 6. Autores
 
